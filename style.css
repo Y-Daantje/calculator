@@ -15,7 +15,7 @@ body {
   overflow: hidden;
 }
 
-#display {
+.display {
   width: 100%;
   padding: 35px;
   font-size: 5rem;

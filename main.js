@@ -1,5 +1,5 @@
 // to get the div that display your info of you calculator
-const display = document.getElementById("display");
+const display = document.querySelector(".display");
 // this function it the one reponsible for the printin to the display
 function toDisplay(input) {
   // Check for multiple decimal points in the current value
